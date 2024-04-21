@@ -1,2 +1,1 @@
-print("06212701");
-print("06210128");
+print("selamlar");
